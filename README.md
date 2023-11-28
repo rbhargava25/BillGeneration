@@ -21,4 +21,4 @@ Bill Generator is a Python script to generate bills based on input parameters an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rbhargava25/BillGeneratorFinal.git
+   git clone https://github.com/rbhargava25/BillGeneration.git
